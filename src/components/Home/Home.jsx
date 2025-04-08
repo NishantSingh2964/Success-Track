@@ -9,7 +9,7 @@ export default function Home() {
                     <div className="max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto">
                         <h2 className="text-4xl font-bold sm:text-5xl">
                             Download Now
-                            <span className="hidden sm:block text-4xl">Lorem Ipsum</span>
+                            <span className="hidden sm:block text-4xl text-orange-700">Success Track</span>
                         </h2>
 
                         <Link
@@ -40,7 +40,8 @@ export default function Home() {
                 <img className="sm:w-96 w-48 rounded-xl" src="https://en.idei.club/uploads/posts/2023-06/thumbs/1687199554_en-idei-club-p-orange-colour-dizain-krasivo-14.jpg" alt="image2" />
             </div>
 
-            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>
+            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">"<span className='text-orange-700'>Success Track</span> – Your Roadmap to a Brighter Future!" 🚀
+            </h1>
         </div>
     );
 }
