@@ -49,7 +49,7 @@ learning-landing-page/
 
 ## 📸 Preview
 
-![Portfolio Screenshot](https://github.com/NishantSingh2964/Success-Track/blob/main/Screenshot%20(47).png) 
+![Success-Track](https://github.com/NishantSingh2964/Success-Track/blob/main/Screenshot%20(47).png) 
 ---
 
 ## 📦 Installation
